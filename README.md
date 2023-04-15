@@ -6,7 +6,9 @@ To do list:
 4.14:
 
 Implement of the algorithms ✔
-Performance testing, hyperparameter testing, potential extention.
+Performance testing ✔  hyperparameter testing✔ Ready for report
+
+ potential extention.
 
 4.15:
 
