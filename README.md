@@ -8,7 +8,7 @@ To do list:
 Implement of the algorithms ✔
 Performance testing ✔  hyperparameter testing✔ Ready for report
 
- potential extention.
+Potential Extention： Maybe Image Recogonization.
 
 4.15:
 
